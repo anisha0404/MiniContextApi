@@ -29,7 +29,7 @@ src/
 ````
 
 🚀 Getting Started
-
+````
 ###1. Clone the repository
 
 ```bash
@@ -66,9 +66,5 @@ npm start
 ---
 
 Made with 💙 using React.
-
-```
-
----
 
 
