@@ -13,7 +13,7 @@ This is a simple React project demonstrating how to use the React Context API fo
 
  📁 Project Structure
 
-```text
+``
 
 src/
 ├── Context/
