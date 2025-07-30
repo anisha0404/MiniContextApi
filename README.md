@@ -1,8 +1,3 @@
-Here’s a professional and well-structured `README.md` file you can use for your project:
-
----
-
-### ✅ `README.md`
 
 ```markdown
 # React User Context Demo
@@ -68,11 +63,6 @@ npm start
 * Context API
 * PropTypes
 * CSS (no external frameworks)
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 Made with 💙 using React.
@@ -81,10 +71,4 @@ Made with 💙 using React.
 
 ---
 
-### ✅ Instructions to Use:
-1. Place this `README.md` in the root of your project folder.
-2. Create a folder named `screenshots/` if you'd like to include images of the login/profile views.
-3. Replace `https://github.com/<your-username>/<your-repo-name>.git` with your actual repo link.
 
-Would you like me to generate the screenshot images too?
-```
