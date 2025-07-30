@@ -1,17 +1,17 @@
 
 ```markdown
-# React User Context Demo
+React User Context Demo
 
 This is a simple React project demonstrating how to use the React Context API for managing user authentication state across components.
 
-## ✨ Features
+✨ Features
 
 - 🔐 User login simulation using context
 - 📦 Centralized state management with `UserContext`
 - 💅 Styled login and profile views with clean CSS
 - 🧠 Demonstrates use of `useContext`, `useState`, and `PropTypes`
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 
@@ -28,9 +28,9 @@ src/
 
 ````
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### 1. Clone the repository
+###1. Clone the repository
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
