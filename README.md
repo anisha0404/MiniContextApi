@@ -60,13 +60,7 @@ npm start
 * `Login.js` allows users to input a username and password. On submit, the user data is set via context.
 * `Profile.js` reads the `user` from context and displays a personalized welcome message (or a login prompt if not logged in).
 
-## 📷 Screenshots
 
-| Login Page                      | Profile Page                        |
-| ------------------------------- | ----------------------------------- |
-| ![Login](screenshots/login.png) | ![Profile](screenshots/profile.png) |
-
-> Add screenshots in the `/screenshots` folder and update the paths above.
 
 ## 🔧 Tech Stack
 
